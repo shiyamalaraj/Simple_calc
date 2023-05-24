@@ -8,5 +8,8 @@ int main() {
     int product = num1 * num2;
     std::cout << "Product: " << product << std::endl;
 
+    int sum = num1 + num2;
+    std::cout << "Sum: " << sum << std::endl;
+
     return 0;
 }
